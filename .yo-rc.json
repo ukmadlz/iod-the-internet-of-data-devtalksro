@@ -1,0 +1,16 @@
+{
+  "generator-cloudant-talk": {
+    "presentationTitle": "IoD",
+    "presentationSubTitle": "THe Internet of Data",
+    "packageVersion": "0.0.1",
+    "revealLayout": "cloudant",
+    "revealTheme": "cloudant",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ukmadlz",
+    "githubRepository": "iod-the-internet-of-data-devtalksro ",
+    "authorName": "Mike Elsmore",
+    "authorJobTitle": "Developer Advocate",
+    "authorEmail": "mike.elsmore@cloudant.com"
+  }
+}

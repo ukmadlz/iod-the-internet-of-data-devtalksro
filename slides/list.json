@@ -1,0 +1,53 @@
+[
+    "index.md",
+    {
+        "filename": "notice.md",
+        "attr": {
+            "id": "notice"
+        }
+    },
+    {
+        "filename": "author.md",
+        "attr": {
+            "id": "author"
+        }
+    },
+    [
+        "where-i-work.md",
+        "what-i-work-on.md",
+        "essentially-means-i-play-with.md"
+    ],
+    [
+        "so-whats-this.md",
+        {
+            "filename": "battlehack-2014.md",
+            "attr": {
+                "data-background": "images/battlehack-london-2014.jpg"
+            }
+        },
+        "moto360.md"
+    ],
+    [
+        "quantified-self.md",
+        "the-kit.md",
+        "how-to-record-quantified-self.md"
+    ],
+    [{
+        "filename": "but-im-lazy.md",
+        "attr": {
+            "data-background": "images/lazy-cat.gif"
+        }
+    },
+    "so-i-did.md",
+    "what-most-people-think.md",
+    "iot-foundation.md"],
+    {
+        "filename": "but-im-lazy.md",
+        "attr": {
+            "data-background": "images/lazy-cat.gif"
+        }
+    },
+    "what-i-think.md",
+    "wikipedia-defintion.md",
+    "i-dont-care-where-it-came-from.md"
+]
