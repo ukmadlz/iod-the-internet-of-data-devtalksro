@@ -32,22 +32,28 @@
         "the-kit.md",
         "how-to-record-quantified-self.md"
     ],
-    [{
-        "filename": "but-im-lazy.md",
-        "attr": {
-            "data-background": "images/lazy-cat.gif"
-        }
-    },
-    "so-i-did.md",
-    "what-most-people-think.md",
-    "iot-foundation.md"],
-    {
-        "filename": "but-im-lazy.md",
-        "attr": {
-            "data-background": "images/lazy-cat.gif"
-        }
-    },
-    "what-i-think.md",
-    "wikipedia-defintion.md",
-    "i-dont-care-where-it-came-from.md"
+    [
+        {
+            "filename": "but-im-lazy.md",
+            "attr": {
+                "data-background": "images/lazy-cat.gif"
+            }
+        },
+        "so-i-did.md",
+        "what-most-people-think.md",
+        "iot-foundation.md"
+    ],
+    [
+        {
+            "filename": "but-im-lazy.md",
+            "attr": {
+                "data-background": "images/lazy-cat.gif"
+            }
+        },
+        "what-i-think.md",
+        "wikipedia-defintion.md",
+        "i-dont-care-where-it-came-from.md"
+    ],
+    "demo-time.md",
+    "the-end.md"
 ]
