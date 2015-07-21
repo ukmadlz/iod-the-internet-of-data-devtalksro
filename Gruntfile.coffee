@@ -31,7 +31,7 @@ module.exports = (grunt) ->
             jshint:
                 files: ['js/*.js']
                 tasks: ['jshint']
-        
+
         connect:
 
             livereload:
@@ -81,7 +81,7 @@ module.exports = (grunt) ->
                     filter: 'isFile'
                 }]
 
-        
+
         manifest:
 
             generate:
@@ -144,9 +144,9 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:ukmadlz/iod-the-internet-of-data-devtalksro .git'
+                    remote: 'git@github.com:ukmadlz/iod-the-internet-of-data-devtalksro.git'
                     branch: 'gh-pages'
-        
+
 
 
     # Load all grunt tasks.
@@ -188,13 +188,13 @@ module.exports = (grunt) ->
             'copy'
         ]
 
-    
+
     grunt.registerTask 'deploy',
         'Deploy to Github Pages', [
             'dist'
             'buildcontrol'
         ]
-    
+
 
     # Define default task.
     grunt.registerTask 'default', [
